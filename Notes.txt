@@ -3,4 +3,5 @@ Scene is controlled using:
 1. INIT (), which is used to prepare data such as the radius, counts etc
 2. Preload(), used to load the music and images into the memory
 3. Create(), to add the objects to the game (Character, obstacle, npc, etc)
-4. Update(), loop that runs constantly
+4. Update(), loop that runs constantly.
+
